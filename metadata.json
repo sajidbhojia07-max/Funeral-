@@ -1,0 +1,6 @@
+{
+  "name": "Al-Rahman Funeral & Memorial Services",
+  "description": "Dignified, compassionate funeral and Janaza memorial services, 24/7 immediate assistance, burial arrangements, online obituaries, and grief care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
